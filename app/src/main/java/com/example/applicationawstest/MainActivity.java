@@ -19,7 +19,7 @@ import org.json.JSONObject;
 public class MainActivity extends AppCompatActivity {
     Button button;
     TextView textView;
-    String serverUrl = ""; //Insert your aws server address here
+    String serverUrl = ""; //Insert your aws server address here!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
